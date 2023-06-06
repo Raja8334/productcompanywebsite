@@ -103,9 +103,15 @@ Publish the website in the given URL.
 ![Screenshot from 2023-06-03 23-25-23](https://github.com/Raja8334/productcompanywebsite/assets/120719634/cd25a304-33fe-4614-a405-2417721928e0)
 
 ### Home Page:
-![Screenshot from 2023-06-03 23-21-48](https://github.com/Raja8334/productcompanywebsite/assets/120719634/98eda7f3-2a70-4f2f-afa3-40e66ad1a1e6)
+![IMG-20230606-WA0007](https://github.com/Raja8334/productcompanywebsite/assets/120719634/367f2085-75b4-4e56-988a-7846990f3c87)
+![IMG-20230606-WA0003](https://github.com/Raja8334/productcompanywebsite/assets/120719634/e8e4ef27-5715-4ceb-8a2c-c7066e3f76ba)
 
-
+### About:
+![IMG-20230606-WA0009](https://github.com/Raja8334/productcompanywebsite/assets/120719634/9267bb1a-51d0-4af3-ae5f-904f9826039a)
+### People:
+![IMG-20230606-WA0006](https://github.com/Raja8334/productcompanywebsite/assets/120719634/8cc22529-54b3-4018-83d2-08aa50743a2d)
+### Product:
+![IMG-20230606-WA0008](https://github.com/Raja8334/productcompanywebsite/assets/120719634/0d6ab591-401d-44b9-93e5-f92cf5456412)
 
 ## Result:
 
